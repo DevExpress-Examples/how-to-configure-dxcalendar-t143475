@@ -4,7 +4,7 @@
 <!-- default file list end -->
 # How to configure dxCalendar
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/t143475)**
+**[[Run Online]](https://codecentral.devexpress.com/t143475/)**
 <!-- run online end -->
 
 
